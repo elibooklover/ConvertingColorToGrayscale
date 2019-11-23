@@ -1,7 +1,7 @@
 import cv2
 
-directory1 = r'resized/'
-directory2 = r'gray/'
+directory1 = r'resized/' # Source Folder
+directory2 = r'gray/' # Destination Folder
 
 image = cv2.imread(directory1+'image1.png')
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
