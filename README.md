@@ -55,4 +55,5 @@ for fil in glob.glob("*.png"):
         print('{} is not converted')
 ```
 
-![Sample Results](https://github.com/elibooklover/ConvertingColorToGrayscale/blob/master/image1.jpg)(https://github.com/elibooklover/ConvertingColorToGrayscale/blob/master/image1_gray.jpg)
+![Color](https://github.com/elibooklover/ConvertingColorToGrayscale/blob/master/image1.jpg)
+![Gray](https://github.com/elibooklover/ConvertingColorToGrayscale/blob/master/image1_gray.jpg)
