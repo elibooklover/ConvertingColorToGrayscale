@@ -33,7 +33,7 @@ dstpath = 'gray/' # Destination Folder
 try:
     makedirs(dstpath)
 except:
-    print ("Directory already exist, images will be written in same folder")
+    print ("The directory already exists, so the images will be written in the same folder")
 
 files = [f for f in listdir(path) if isfile(join(path,f))]
 
