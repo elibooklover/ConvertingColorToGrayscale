@@ -54,3 +54,5 @@ for fil in glob.glob("*.png"):
     except:
         print('{} is not converted')
 ```
+
+![Sample Results](https://github.com/elibooklover/ConvertingColorToGrayscale/blob/master/image1.jpg)(https://github.com/elibooklover/ConvertingColorToGrayscale/blob/master/image1_gray.jpg)
