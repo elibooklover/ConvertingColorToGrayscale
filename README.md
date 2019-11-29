@@ -1,9 +1,10 @@
 # ConvertingColorToGrayscale
-Converting color to grayscale with Python
+Converting color to grayscale with Python | Coded by Hoyeol Kim
 
+### Converting a Single File
 If you want to simply covert color to grayscale in a single file, use the following code from [gray_single.py](https://github.com/elibooklover/ConvertingColorToGrayscale/blob/master/gray_single.py):
 
-```
+```python3
 import cv2
 
 directory1 = r'resized/' # Source Folder
@@ -19,9 +20,10 @@ cv2.destroyAllWindows()
 
 ```
 
+### Converting Multiple Files
 If you want to covert color to grayscale in multiple files, use the following code from [gray_multiple.py](https://github.com/elibooklover/ConvertingColorToGrayscale/blob/master/gray_multiple.py):
 
-```
+```python3
 import cv2
 import os,glob
 from os import listdir,makedirs
