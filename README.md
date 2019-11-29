@@ -1,5 +1,5 @@
 # ConvertingColorToGrayscale
-Converting color to grayscale in Python
+Converting color to grayscale with Python
 
 If you want to simply covert color to grayscale in a single file, use the following code from [gray_single.py](https://github.com/elibooklover/ConvertingColorToGrayscale/blob/master/gray_single.py):
 
